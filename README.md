@@ -65,7 +65,7 @@ These mockups follow the demo journey from discovering a Box to reviewing activi
 | 5. View the demo profile |
 | --- |
 | <img src="media/05-demo-profile.png" alt="Demo profile with fictional balance and personal email removed" width="300"> |
-| See the fictional balance and activity history. The personal email was removed from this public mockup. |
+| See the fictional balance and activity history. |
 
 ## Regulatory approach
 
