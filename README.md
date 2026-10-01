@@ -46,7 +46,26 @@ These are planned product signals. No traction, conversion, or investment perfor
 
 A **working Flutter MVP** demonstrates the product flow with demo Boxes, simulated investment tickets, and voting. It is a demonstration environment: **no real client funds are accepted and no real investments are executed at the MVP stage**.
 
-Screenshots and team photos can be added later in [media/](media/). The application source is intentionally outside this public portfolio.
+The application source is intentionally outside this public portfolio.
+
+## Product walkthrough
+
+These mockups follow the demo journey from discovering a Box to reviewing activity. **Every amount, balance, member count, vote, startup, and transaction shown is fictional demo data.** The €20 / €100,000 Box on these screens is a separate demo configuration from the €10 / €50,000 illustration above. No live funding or investment activity is depicted.
+
+| 1. Explore Boxes | 2. Review a Box |
+| --- | --- |
+| <img src="media/01-explore-boxes.png" alt="UNIBOX demo home screen showing Explore Boxes" width="300"> | <img src="media/02-box-details.png" alt="Demo Box details and fixed ticket" width="300"> |
+| Discover the concept and available demo Boxes. | See the fixed ticket and proposed selection process. |
+
+| 3. Review founder pitches | 4. Follow demo updates |
+| --- | --- |
+| <img src="media/03-founder-voting.png" alt="Demo founder pitch and community voting screen" width="300"> | <img src="media/04-demo-updates.png" alt="Fictional demo activity updates" width="300"> |
+| Explore a short pitch and simulated voting controls. | Review fictional wallet and activity notifications. |
+
+| 5. View the demo profile |
+| --- |
+| <img src="media/05-demo-profile.png" alt="Demo profile with fictional balance and personal email removed" width="300"> |
+| See the fictional balance and activity history. The personal email was removed from this public mockup. |
 
 ## Regulatory approach
 
