@@ -71,29 +71,5 @@ These mockups follow the demo journey from discovering a Box to reviewing activi
 
 Any live investment service would be developed only after the required regulatory and legal work. The intended approach is to work with an **authorised European partner** for future KYC/AML, handling of client money, and regulated investment execution. The precise structure, partner, permissions, and jurisdictions have not yet been finalised.
 
-## Team
-
-| Person | Role |
-| --- | --- |
-| **Pavel Frolov, 16** | Product Creator — Product, UX & Technology |
-| **Konstantin Frolov** | Business Development, Operations & Partnerships |
-
-## Portugal / Startup Visa
-
-UNIBOX is considering Portugal as a base and is seeking conversations with incubators and potential regulatory partners. This is an exploration of fit and potential pathways; no incubator acceptance, visa approval, or regulatory authorisation is claimed.
-
-## Current status and what we are looking for
-
-The product concept and working Flutter demo are ready for discussion. We are looking for:
-
-- Incubators and accelerators willing to review the concept and MVP.
-- Regulatory and authorised financial-service partners to help assess a compliant route to market.
-- Early-stage startup ecosystem partners for feedback on founder needs, screening, and validation.
-
-## Contact
-
-**Contact details coming soon.** Please use the repository's GitHub profile for now. A dedicated project email or website can be added here once available.
-
----
 
 *UNIBOX is an early-stage product concept. This public repository is a portfolio and demo description, not an investment offer or financial advice.*
